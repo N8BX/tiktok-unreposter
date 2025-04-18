@@ -1,6 +1,7 @@
 An advanced Python script that automates the process of removing reposted videos from your TikTok profile. This tool uses browser automation to navigate your TikTok profile, detect reposted videos, and delete them effortlessly. Perfect for cleaning up your feed with just a few clicks.
 
 ⚡ Features
+
 ✅ Opens your TikTok profile
 
 ✅ Goes to the "Reposts" tab
