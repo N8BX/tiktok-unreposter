@@ -1,8 +1,4 @@
 
----
-
-When ready, push it to GitHub:
-
 ```bash
 git init
 git add .
