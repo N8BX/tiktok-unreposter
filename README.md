@@ -17,22 +17,32 @@ An advanced Python script that automates the process of removing reposted videos
 ✅ Works on any directory don't care just run it
 
 🚀 Installation
+
 1️⃣ Clone the Repository
+
 bash
 Copy code
 git clone https://github.com/N8BX/tiktok-unreposter.git
+
 cd tiktok-unreposter
+
 2️⃣ Install Dependencies
+
 Make sure you have Python 3 installed. Then, install the required packages:
 
 bash
 Copy code
 pip install pygetwindow pyperclip keyboard
+
 3️⃣ Log in to Your TikTok Profile
+
 Before running the tool, ensure that you are logged into your TikTok account.
 
+
 4️⃣ Usage
+
 You can run the tool from any directory (e.g., Desktop or any file location). Make sure both the Python script (.py) and the executable (.exe) are placed in the same folder.
+
 
 To run the script, open your terminal or command prompt, navigate to the directory where the script is saved, and run:
 
