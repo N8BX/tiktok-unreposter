@@ -2,6 +2,8 @@
 
 An advanced **Python script** that automates the process of removing reposted videos from your TikTok profile. This tool uses **browser automation** to navigate your TikTok profile, detect reposted videos, and delete them effortlessly. Perfect for cleaning up your feed with just a few clicks.
 
+---
+
 ## ⚡ Features
 
 - ✅ **Opens your TikTok profile**
@@ -10,11 +12,13 @@ An advanced **Python script** that automates the process of removing reposted vi
 - ✅ **Lets you choose how many reposts to delete**
 - ✅ **Smart UI interactions via JavaScript injection**
 - ✅ **Works with Python and browser automation**
-- ✅ **Works on any directory – don’t care, just run it**
+- ✅ **Works on any directory – just run it**
+
+---
 
 ## 🚀 Installation
 
-### **1️⃣ Clone the Repository**
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/N8BX/tiktok-unreposter.git
@@ -23,7 +27,8 @@ cd tiktok-unreposter
 Make sure you have Python 3 installed. Then, install the required packages:
 
 bash
-Copy code
+Copy
+Edit
 pip install pygetwindow pyperclip keyboard
 3️⃣ Log in to Your TikTok Profile
 Before running the tool, ensure that you are logged into your TikTok account.
@@ -34,11 +39,13 @@ You can run the tool from any directory (e.g., Desktop or any file location). Ma
 To run the script, open your terminal or command prompt, navigate to the directory where the script is saved, and run:
 
 bash
-Copy code
+Copy
+Edit
 python tiktok_unreposter.py
 🎯 Example Output
 bash
-Copy code
+Copy
+Edit
 Enter the number of reposts you want to delete: 5
 
 📝 Starting to remove 5 reposts...
