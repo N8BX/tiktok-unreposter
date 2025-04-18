@@ -1,0 +1,11 @@
+
+---
+
+When ready, push it to GitHub:
+
+```bash
+git init
+git add .
+git commit -m "🔥 Initial release by @N8BX (MARDINLI DEVELOPER)"
+git remote add origin https://github.com/N8BX/tiktok-unreposter.git
+git push -u origin main
