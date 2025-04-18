@@ -1,6 +1,62 @@
-```bash
-git init
-git add .
-git commit -m "🔥 Initial release by @N8BX (MARDINLI DEVELOPER)"
-git remote add origin https://github.com/N8BX/tiktok-unreposter.git
-git push -u origin main
+# TikTok Repost Remover Configuration
+
+project:
+  name: "TikTok Repost Remover"
+  version: "1.0"
+  last_update: "2025-04-18"
+  author: "MARDINLI DEVELOPER"
+  github: "https://github.com/N8BX/tiktok-unreposter"
+
+dependencies:
+  python_version: "3.x"
+  packages:
+    - pygetwindow
+    - pyperclip
+    - keyboard
+
+features:
+  - "Opens TikTok profile"
+  - "Goes to the Reposts tab"
+  - "Automatically removes reposts"
+  - "Smart UI interactions via JavaScript injection"
+  - "Works on any directory"
+
+usage:
+  description: "Run the script from any directory. Ensure both the Python script (.py) and executable (.exe) are in the same folder."
+  steps:
+    - "Clone the repository"
+    - "Install dependencies"
+    - "Log into your TikTok account"
+    - "Run the script using `python tiktok_unreposter.py`"
+  
+example_output: |
+  Enter the number of reposts you want to delete: 5
+  📝 Starting to remove 5 reposts...
+  🔥 Script running... Press * to stop.
+  🔄 Removed repost 1 of 5 posts.
+  🔄 Removed repost 2 of 5 posts.
+  🔄 Removed repost 3 of 5 posts.
+  🔄 Removed repost 4 of 5 posts.
+  🔄 Removed repost 5 of 5 posts.
+  ✅ All reposts removed! Total removed: 5 posts.
+
+disclaimer: |
+  This script is for educational purposes only.
+  Using the script may violate TikTok's Terms of Service.
+  Do not use the script for unauthorized automation or to access accounts without permission.
+
+github_setup:
+  - "git init"
+  - "git add ."
+  - "git commit -m '🔥 Initial release by @N8BX (MARDINLI DEVELOPER)'"
+  - "git remote add origin https://github.com/N8BX/tiktok-unreposter.git"
+  - "git push -u origin main"
+
+connect_with_me:
+  instagram: "https://www.instagram.com/n8bx/"
+  github: "https://github.com/N8BX"
+  twitter: "https://twitter.com/SY_GRX"
+
+contribute:
+  description: "Feel free to contribute by forking the repository, making changes, and submitting a pull request."
+
